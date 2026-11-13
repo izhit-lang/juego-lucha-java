@@ -29,15 +29,15 @@ El programa permite ingresar los nombres de dos personajes. Después, inicia una
 Compilar:
 
 ```bash
-javac -d bin src/JuegoLuchaApp.java
+javac JuegoLuchaApp.java
 ```
 
 Ejecutar:
 
 ```bash
-java -cp bin JuegoLuchaApp
+java JuegoLuchaApp
 ```
 
 ## Autora
 
-María Cabre
+Lina Maria
